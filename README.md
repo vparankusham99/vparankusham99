@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vparankusham99
+- 👋 Hi, I’m Vindhya Parankusham
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - parankusham.vindhya99@gmail.com
 

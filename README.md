@@ -1,1 +1,1 @@
-Different types of Machine Learning models on various types of datasets are uploaded here
+Diabetic Retinopathy Detection based on the patients dataset.
